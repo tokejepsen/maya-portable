@@ -1,6 +1,6 @@
 # maya-portable
-Portable launching of Maya
+Portable launching of Maya.
 
-Populate the folders with personal customization and take; script, shelves and plugin with you on a usb stick.
+Populate the folders with personal customization and take; scripts, shelves, modules and plugins with you on an external storage.
 
 Acts exactly like Maya, but adds the contents of the folders to the Maya session.
